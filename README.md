@@ -12,7 +12,7 @@ _emphsize_
 
 **Qiangdiao**
 
-baidu:(www.baidu.com)
+baidu:[百度](https://www.baidu.com)
 
 Recent Events
 
